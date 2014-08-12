@@ -1,7 +1,7 @@
 tienoccio
 =========
 
-Setting up a pinoccio with neopixels... on a tie or anything else
+Setting up a pinoccio with neopixels. Put the pixels on a Tie or anything!
 
 Overview
 --------
